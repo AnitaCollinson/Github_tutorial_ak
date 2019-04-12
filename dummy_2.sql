@@ -1,0 +1,1 @@
+select employee_id,employee_name  from employee table
